@@ -1,0 +1,30 @@
+div {
+  border: 1px solid violet;
+  border-radius: 5px;
+  width: 400px;
+  padding: 10px 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 50px auto;
+}
+input {
+  padding: 10px 5px 8px 5px;
+  margin-bottom: 3px;
+  width: 100%;
+  border-color: rgb(190, 190, 190);
+  background-color: rgb(190, 190, 190);
+  border-radius: 5px;
+}
+.btn {
+  background-color: rgb(91, 91, 230);
+  color: white;
+  border-radius: 5px;
+  padding: 10px 15px;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+  font-size: medium;
+}
+label {
+  display: block;
+}
